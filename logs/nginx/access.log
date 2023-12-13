@@ -1,0 +1,2 @@
+172.23.0.1 - - [13/Dec/2023:13:00:05 +0000] "GET / HTTP/1.1" 200 615 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" "-"
+172.23.0.1 - - [13/Dec/2023:13:00:05 +0000] "GET /favicon.ico HTTP/1.1" 404 153 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" "-"
